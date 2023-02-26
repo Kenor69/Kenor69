@@ -1,5 +1,1 @@
-<h1 aling="center">
-    <img src="https://github.com/Kenor69/README.md/blob/main/raccoon-dance (1).gif" height="28">
-    <p>Hi! I´m your new friend Kenor</p>
-    <img src="https://github.com/Kenor69/README.md/blob/main/raccoon-dance (1).gif" height="28">
-</h1>
+<h1 align="center"><img src="https://github.com/Kenor69/Kenor69/blob/main/raccoon-dance%20(1).gif" height="48"> Hi! I´m your new friend Kenor <img src="https://github.com/Kenor69/Kenor69/blob/main/raccoon-dance%20(1).gif" height="48"></h1>
